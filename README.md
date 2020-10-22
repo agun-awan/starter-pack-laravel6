@@ -26,7 +26,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 - Bootstrap 4 with popper.js
 - JQuery v3.5.1
 - Sass/Scss in Webpack Config
-- Guzzle/httpclient v7
+- Guzzlehttp v7
 - Laravel Socialite
 
 ## How to Use
